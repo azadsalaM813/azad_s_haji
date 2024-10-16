@@ -1,7 +1,7 @@
 Credit Card Balance Checker and OTP Bypass
--------------------------------------------
-Description
 
+Description
+-------------------------------------------
 This project is a tool for checking credit card balances and bypassing OTP (One-Time Password) requirements. It includes functionalities to add cards, display saved cards, display card balances, and generate OTPs.
 -------------------------------------------
 Installation
