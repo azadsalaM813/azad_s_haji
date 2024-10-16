@@ -8,7 +8,7 @@ Installation
 
 1- Clone the repository: git clone https://github.com/azadsalaM813/azad_s_haji.git
 
-2- Navigate to the project directory: cd Credit-Card-Balance-Checker-OTP-Bypass
+2- Navigate to the project directory: cd azad_s_haji
 
 3- Install dependencies: pip install -r requirements.txt
 
