@@ -301,12 +301,12 @@ def process_lines(queue, bot_number):
         if any(keyword in response_final.text for keyword in ["Thank you for your purchase!", "Your order is confirmed", "Thank you"]):
          response_text = f'''     {GREEN}CHARGED
      ➤ CC:  {line}
-     ➤ Response:  Charged ✅ BY  @ADSBINFREE
+     ➤ Response:  Charged ✅ BY  @azad_s_haji
      ➤ Gate : Shopify gateway '''
         elif any(keyword in response_final.text for keyword in ["Security code was not matched by the processor", "Security codes does not match correct", "CVV mismatch", "CVV2 Mismatch"]):
          response_text = f'''     {GREEN}CCN 
      ➤ CC:  {line}
-     ➤ Response: Card security code is incorrect ✅ BY  @ADSBINFREE
+     ➤ Response: Card security code is incorrect ✅ BY  @azad_s_haji
      ➤ Gate : Shopify gateway '''
 
         else:
