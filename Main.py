@@ -95,7 +95,7 @@ def display_card_balance(card_number):
 def main():
     while True:
         print("\033[1;33m########################################\033[0m")
-        print("\033[1;33m#           King Of Zero              #\033[0m")
+        print("\033[1;33m#           .AZAD.          #\033[0m")
         print("\033[1;33m########################################\033[0m")
         print("1. Add Card")
         print("2. Display Saved Cards")
